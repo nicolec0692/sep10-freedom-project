@@ -15,6 +15,14 @@ At this moment, i am beginning stages of th Engineering Design process. I am sta
 
 One skill i have been practicing while researchign was How to Google. When i first started looking for information about cooking, i realized i have to be more specific and not use one words. I am learning that the words i use can make a huge difference in my result. This helped me find new techniques and discover more resources as i continue working on my project. 
 
+## How to read
+
+ When researching cooking technology, I have to read articles carefully and figure out which information is important instead of just look at the title. I need to take my time, reread parts when neccessary and make sure i understand what the website is talking about before using it in my project. This can be helpful in my everyday life when reading instructions for using cooking eqipments. 
+
+
+
+
+
 ## Decision-making
 
 I have been practicingon making desisions faster because when choosing my topic i was harder than i expected because i had three interests i could use for my project. I had to choose wisely which one i would still enjoy reaserching after spending lots of time in. So i came down to cooking because i realized it is something i already enjoy doing in my everyday life. This helped me learn somehting new that i should pick a topic i care about to keep learning.
