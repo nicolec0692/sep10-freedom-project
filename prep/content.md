@@ -8,7 +8,7 @@ Topic: Cooking
 ## Part A: existing technology
 
 ##### Software
-* Tech
+* My first app that i found was Samsung food.
   * Detail
   * [image text](image URL)
 
