@@ -10,7 +10,8 @@ Topic: Cooking-How Technology is changing the Way people cook
 ##### Software
 * My first app that i found was Samsung food.
 * Website: https://www.samsungfood.com/
-  * Detail
+  * Provides recipes for any kind baking, desserts, breakfast, and dinner.
+  * Shares information about cooking methods, and ingredients.
   * [image text](image URL)
 
 ##### Hardware
