@@ -9,6 +9,7 @@ Topic: Cooking-How Technology is changing the Way people cook
 
 ##### Software
 * My first app that i found was Samsung food.
+* Website: https://www.samsungfood.com/
   * Detail
   * [image text](image URL)
 
