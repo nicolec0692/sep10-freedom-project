@@ -40,8 +40,10 @@ Topic: Cooking-How Technology is changing the Way people cook
  
 * 2nd hardware i looked into was Tovala Smart Oven
  * Website: https://www.tovala.com/smart-ovens
- * The Tovala Smart Oven is a smart countertop oven that uses technology to make cooking easier and more convenient.
- *It combines several cooking appliances into one machine, including an oven, toaster, and air fryer.
+    * The Tovala Smart Oven is a smart countertop oven that uses technology to make cooking easier and more convenient.
+    * It combines several cooking appliances into one machine, including an oven, toaster, and air fryer.
+    * It can automatically change cooking tempteratues.
+    * It can help people save time because they do not have to stress out about the cooking temperature and doing it themselves. 
 
 
 
