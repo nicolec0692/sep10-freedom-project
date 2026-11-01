@@ -18,11 +18,10 @@ Topic: Cooking-How Technology is changing the Way people cook
  ![](plan-cook.png)
 
 * 2nd app review I looked at was SideChef
-
-  *Website: https://www.sidechef.com/
-  *App download: https://www.sidechef.com/download/
-  *Picture/screenshots: https://play.google.com/store/apps/details?id=com.sidechef.sidechef
-  *SideChef is a cooking app that helps people learn how to prepare meals through guided recipes and cooking instructions.
+  * Website: https://www.sidechef.com/
+  * App download: https://www.sidechef.com/download/
+  * Picture/screenshots: https://play.google.com/store/apps/details?id=com.sidechef.sidechef
+  * SideChef is a cooking app that helps people learn how to prepare meals through guided recipes and cooking instructions.
    
 
 ##### Hardware
