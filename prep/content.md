@@ -8,10 +8,10 @@ Topic: Cooking-How Technology is changing the Way people cook
 ## Part A: existing technology
 
 ##### Software
-* My first app that i found was Samsung food.
+* My first app that l found was Samsung food.
 * Website: https://www.samsungfood.com/
-  * Provides recipes for any kind baking, desserts, breakfast, and dinner.
-  * Shares information about cooking methods, and ingredients.
+  * Provides recipes for any kind of baking, desserts, breakfast, and dinner.
+  * Share information about cooking methods, and ingredients.
   * People can search for recipes based on ingredients they already have at home
   * This helps people organize what they want to cook during the week. 
  
@@ -24,7 +24,7 @@ Topic: Cooking-How Technology is changing the Way people cook
   * SideChef is a cooking app that helps people learn how to prepare meals through guided recipes and cooking instructions.
   * There are thousands of recipes with step by step directions.
   * You can shop for ingredients in the app.
-  * This connecs to software is this is a kitchen hardware showing us how technology can make cooking much easier. 
+  * This connects to software is kitchen hardware showing us how technology can make cooking much easier. 
    
 
 ##### Hardware
@@ -36,18 +36,20 @@ Topic: Cooking-How Technology is changing the Way people cook
   * Users can connect the oven to their phone to check on their food while they are away from the kitchen.
   * This is a hardware and software product because it is touchscreen and it has a camera. There is a Kitchenaid app to help control.
   * This app is available for IOS and Android.
-  * [](image URL)
+ 
  
 * 2nd hardware i looked into was Tovala Smart Oven
  * Website: https://www.tovala.com/smart-ovens
-    * The Tovala Smart Oven is a smart countertop oven that uses technology to make cooking easier and more convenient.
-    * It combines several cooking appliances into one machine, including an oven, toaster, and air fryer.
-    * It can automatically change cooking tempteratues.
-    * It can help people save time because they do not have to stress out about the cooking temperature and doing it themselves. 
+ * The Tovala Smart Oven is a smart countertop oven that uses technology to make cooking easier and more convenient.
+ * It combines several cooking appliances into one machine, including an oven, toaster, and air fryer.
+ * It can automatically change cooking temperatures.
+ * It can help people save time because they do not have to stress out about the cooking temperature and doing it themselves.
+ * It connects to the internet using Wi-Fi
+ * You can use it in a moble app on IOS and Android. 
 
 
 
 ## Part B: possible future technology
 
-* Idea
-  * Detail
+* The can be a Ai Robot Chef. 
+  * This robot can make your meals and listen to your orders. He can measure ingredients and give you recipes suggestion
