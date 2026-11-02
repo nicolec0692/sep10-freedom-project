@@ -39,6 +39,8 @@ Topic: Cooking-How Technology is changing the Way people cook
  
 * 2nd hardware i looked into was Tovala Smart Oven
  * Website: https://www.tovala.com/smart-ovens
+ * $299 but right now it is $69 for the Smart oven
+ * $The Smart Oven Pro cost $349 but right now it is $119
  * The Tovala Smart Oven is a smart countertop oven that uses technology to make cooking easier and more convenient.
  * It combines several cooking appliances into one machine, including an oven, toaster, and air fryer.
  * It can automatically change cooking temperatures.
