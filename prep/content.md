@@ -49,6 +49,3 @@ Topic: Cooking-How Technology is changing the Way people cook
 
 
 ## Part B: possible future technology
-
-* The can be a Ai Robot Chef. 
-  * This robot can make your meals and listen to your orders. He can measure ingredients and give you recipes suggestion
