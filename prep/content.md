@@ -82,22 +82,22 @@ Topic: Cooking-How Technology is changing the Way people cook
  
  
 * Tovala Smart Oven
-  * Website: https://www.tovala.com/smart-ovens
-  * $299 but right now it is $69 for the Smart oven
-  * $The Smart Oven Pro cost $349 but right now it is $119
-  * The Tovala Smart Oven is a smart countertop oven that uses technology to make cooking easier and more convenient.
-  * It combines several cooking appliances into one machine, including an oven, toaster, and air fryer.
-  * It can automatically change cooking temperatures.
-  * It can help people save time because they do not have to stress out about the cooking temperature and doing it themselves.
-  * It connects to the internet using Wi-Fi
-  * You can use it in a mobile app on IOS and Android.
-  * Its built-in scanners can scan more than 1,000 name-brand grocery products.
-  * After scanning a supported grocery barcode, the oven displays the cooking time.
-  * Users can create their own custom cooking cycle through the app.
-  * You can still use basic cooking modes like bake, broil and toast without WI-Fi.
+ * Website: https://www.tovala.com/smart-ovens
+ * $299 but right now it is $69 for the Smart oven
+ * $The Smart Oven Pro cost $349 but right now it is $119
+ * The Tovala Smart Oven is a smart countertop oven that uses technology to make cooking easier and more convenient.
+ * It combines several cooking appliances into one machine, including an oven, toaster, and air fryer.
+ * It can automatically change cooking temperatures.
+ * It can help people save time because they do not have to stress out about the cooking temperature and doing it themselves.
+ * It connects to the internet using Wi-Fi
+ * You can use it in a mobile app on IOS and Android.
+ * Its built-in scanners can scan more than 1,000 name-brand grocery products.
+ * After scanning a supported grocery barcode, the oven displays the cooking time.
+ * Users can create their own custom cooking cycle through the app.
+ * You can still use basic cooking modes like bake, broil and toast without WI-Fi.
 
 * DREO ChefMaker Combi Fryer
- *The DREO ChefMaker is a smart countertop cooking appliance.
+ * The DREO ChefMaker is a smart countertop cooking appliance.
  * It uses a special cooking probe to monitor food temperature.
  * It uses water atomization to help control moisture during cooking.
  * It combines convection heating with temperature sensors.
