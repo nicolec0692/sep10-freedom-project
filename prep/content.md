@@ -66,6 +66,9 @@ Topic: Cooking-How Technology is changing the Way people cook
 
 
 ##### Hardware
+
+1. Smart Oven Technology
+-
 * 1st hardware I looked into was the KitchenAid Intelligent Cooking Camera Oven
   * Website: https://www.kitchenaid.com/major-appliances/wall-ovens/oven-cooking-camera.html
   * This smart oven can recognize certain foods placed in the oven like cookies, chicken, pizza etc.
@@ -96,6 +99,8 @@ Topic: Cooking-How Technology is changing the Way people cook
   * Users can create their own custom cooking cycle through the app.
   * You can still use basic cooking modes like bake, broil and toast without WI-Fi.
 
+ 2. Advanced Temperature-Control Appliances
+
 * DREO ChefMaker Combi Fryer
   * The DREO ChefMaker is a smart countertop cooking appliance.
   * It uses a special cooking probe to monitor food temperature.
@@ -107,7 +112,9 @@ Topic: Cooking-How Technology is changing the Way people cook
   * The app provides cooking instructions and progress updates.
   * It has a digital display for controlling cooking settings.
   * Its glass basket allows users to observe food while it cooks.
- 
+
+3. Multifunctional Cooking Equipment
+   
 * Thermomix TM7
   * Website: https://www.thermomix.com/
   * Combines more than 20 kitchen functions into one machine, including chopping, mixing, blending, and cooking.
