@@ -33,7 +33,15 @@ Topic: Cooking-How Technology is changing the Way people cook
   * Users can filter recipes by dietary preferences, ingredients, cuisine, and cooking time.
   * Some recipes include videos that demonstrate cooking techniques.
   * The app includes guided cooking with pictures that show users what to do at each step.
-   
+
+* 3rd app: Kitchen Stories
+  * Website: https://www.kitchenstories.com/
+  * Provides thousands of cooking and baking recipes.
+  * Uses pictures and videos to demonstrate cooking techniques.
+  * Gives users step-by-step cooking instructions.
+  * Allows people to save recipes in their own digital cookbooks.
+  * Helps people plan meals and create grocery lists.
+  * Makes it easier for beginners to learn how to cook.
 
 ##### Hardware
 * 1st hardware I looked into was the KitchenAid Intelligent Cooking Camera Oven
