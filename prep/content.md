@@ -107,7 +107,7 @@ Topic: Cooking-How Technology is changing the Way people cook
  * The app provides cooking instructions and progress updates.
  * It has a digital display for controlling cooking settings.
  * Its glass basket allows users to observe food while it cooks.
-
+ 
 *Thermomix TM7
   * Website: https://www.thermomix.com/
   * Combines more than 20 kitchen functions into one machine, including chopping, mixing, blending, and cooking.
