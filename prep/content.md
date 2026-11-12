@@ -81,7 +81,7 @@ Topic: Cooking-How Technology is changing the Way people cook
   * Users can share their cooking time-lapse videos with other people. 
  
  
-* 2nd hardware i looked into was Tovala Smart Oven
+* Tovala Smart Oven
   * Website: https://www.tovala.com/smart-ovens
   * $299 but right now it is $69 for the Smart oven
   * $The Smart Oven Pro cost $349 but right now it is $119
@@ -95,8 +95,8 @@ Topic: Cooking-How Technology is changing the Way people cook
   * After scanning a supported grocery barcode, the oven displays the cooking time.
   * Users can create their own custom cooking cycle through the app.
   * You can still use basic cooking modes like bake, broil and toast without WI-Fi.
- 
-* 3. DREO ChefMaker Combi Fryer
+
+* DREO ChefMaker Combi Fryer
  *The DREO ChefMaker is a smart countertop cooking appliance.
  * It uses a special cooking probe to monitor food temperature.
  * It uses water atomization to help control moisture during cooking.
@@ -108,7 +108,7 @@ Topic: Cooking-How Technology is changing the Way people cook
  * It has a digital display for controlling cooking settings.
  * Its glass basket allows users to observe food while it cooks.
 
-* 4. Thermomix TM7
+*Thermomix TM7
   * Website: https://www.thermomix.com/
   * Combines more than 20 kitchen functions into one machine, including chopping, mixing, blending, and cooking.
   * Has a large 10-inch touchscreen that displays recipes and cooking instructions.
