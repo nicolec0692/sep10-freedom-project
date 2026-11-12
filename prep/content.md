@@ -79,7 +79,7 @@ Topic: Cooking-How Technology is changing the Way people cook
   * The oven can begin cooking certain recognized foods without preheating first.
   * its camera features work with a 4.5-inch LCD touchscreen display.
   * Users can share their cooking time-lapse videos with other people. 
- 
+  
  
 * Tovala Smart Oven
  * Website: https://www.tovala.com/smart-ovens
