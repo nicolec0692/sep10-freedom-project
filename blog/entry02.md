@@ -11,6 +11,13 @@ While researching, l found several cooking applications, including [Kitchen Stor
 
 When searching for information, I had to use different search terms to find the technologies I wanted to learn about. I looked for cooking apps, smart ovens, advanced cooking appliances, recipe organizers, and cooking technology. Instead of only searching for general cooking information, I focused on specific products and their features. This helped me find more useful information about how the technology actually works and what it can do.
 
+## Engineering Design Process (EDP)
+
+At this moment, l am continuing through the research and planning stages of the engineering design process. l have been gathering information about different cooking technologies, including cooking applications, smart ovens, and multifunctional kitchen appliances. l am learning about the different features these inventions have and how they can help people cook more easily. So far, l have organized my research into software and hardware because l noticed technologies help people find recipes and organize meals. l am still exploring my topic and learning about the different possibilities before deciding what l want to focus on next. My next step in the engineering design process is to continue researching design process and wait until my teacher tells me to do anything else. This will help me narrow down my research and plan what l want to do next of ym Freedom project. 
+
+
+
+
 ## Skills 
 
 One skill I have been developing is researching and searching for information. Since my last entry, I have learned that searching for information requires more than just typing a general topic into Google. I need to use specific words and search for individual technologies to find more detailed information. For example, searching for smart ovens, cooking applications, and recipe organizers helped me discover different inventions that I might not have found with a general search. This skill can help me in other school assignments and projects because I am learning how to find information more effectively.
