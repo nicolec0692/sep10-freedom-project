@@ -7,7 +7,11 @@ Since my last blog entry, l have been reaserching how technology is changing the
 
 ## What l found and How
 
-While researching, l found several cooking applications, including [Kitchen Stories](https://www.kitchenstories.com)
+While researching, l found several cooking applications, including [Kitchen Stories](https://www.kitchenstories.com), [SideChef](https://www.sidechef.com), [Samsung Food}(https://samsungfood.com), and [Crouton}(https://crouton.app). Kitchen stories provides thousands of recipes, create grocery lists, and plan meals. SideChef also provides guided recipes and step-by-step instructions, pictures and videos. 
+
+
+
+
 
 
 
