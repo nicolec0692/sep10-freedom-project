@@ -17,7 +17,9 @@ One skill I have been developing is researching and searching for information. S
 
 Another skill is organizing my information. At first, l was finding many different cooking technologies and it was difficult to keep all the information together. I decided to separate my research into software and hardware so that the information would be easier to understand. I also organized the technologies into smaller categories based on their features and purposes. This helped me avoid mixing different types of inventions and made my research more organized. I can use this skill in future projects, assignments, and even in everyday situations when I need to organize information.
 
+## Next steps 
 
+Overall, I have learned a lot about how technology is changing cooking. I discovered that technology can help people learn recipes, organize meals, control appliances, and make cooking more convenient. My next steps are to continue exploring the technologies I found, learn more about their features, and decide which inventions I want to focus on the most.
 
 
 
